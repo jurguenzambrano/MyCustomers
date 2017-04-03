@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Customers</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_customer">About Costumer</string>
+    <string name="title_activity_customer_map">Map Customer</string>
+
+    <string name="name_bill_gates">Bill Gates</string>
+    <string name="name_larry_ellison">Larry Ellison</string>
+    <string name="name_mark_zuckerberg">Mark Zuckerberg</string>
+    <string name="name_steve_jobs">Steve Jobs</string>
+    <string name="name_steve_wozniak">Steve Wozniak</string>
+    <string name="title_ceo">CEO</string>
+    <string name="title_ceo_and_founder">CEO &amp; Founder</string>
+    <string name="title_former_ceo_and_founder">Former CEO &amp; Founder</string>
+    <string name="title_cto">CTO</string>
+    <string name="title_co_founder">Co-Founder</string>
+    <string name="company_microsoft">Microsoft Corp.</string>
+    <string name="company_apple">Apple, Inc.</string>
+    <string name="company_oracle">Oracle Corp.</string>
+    <string name="company_facebook">Facebook, Inc.</string>
+    <string name="bio_bill_gates">Bill Gates and his partner Paul Allen built the
+world\'s largest software business, Microsoft.</string>
+    <string name="bio_larry_ellison">Lawrence Joseph \"Larry\" Ellison (born August
+17, 1944) is an American internet entrepreneur, businessman and philanthropist. He
+serves as executive chairman and chief technology officer of Oracle Corporation,
+having previously been chief executive from its founding until September 2014. In
+2014, he was listed by Forbes magazine as the third-wealthiest man in America and as
+the fifth-wealthiest person in the world, with a fortune of US$56.2 billion.</string>
+    <string name="bio_mark_zuckerberg">Mark Zuckerberg was the Harvard computer
+science student who along with a few friends launched the world\'s most popular social
+networking website called Facebook in February 2004.</string>
+    <string name="bio_steve_jobs">Steve Jobs met Steve Wozniak while in high school
+and in 1976, they started Apple Computers. Jobs oversaw the development of
+revolutionary products like the iPhone and iPad.</string>
+    <string name="bio_steve_wozniak">Steve Wozniak is the co-founder of Apple
+Computers. Wozniak has always been credited with being the main designer of the first
+Apples.</string>
+
+    <string name="direccion_01">Jirón Cd Real 235</string>
+    <string name="direccion_02">Samiria 252</string>
+    <string name="direccion_03">Av. Los Héroes 376</string>
+    <string name="direccion_04">Av. Miguel Iglesias B Lote 5</string>
+    <string name="direccion_05">Los Alamos 1418</string>
+
+</resources>
